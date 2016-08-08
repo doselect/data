@@ -1210,8 +1210,8 @@
   , "is_independent": "Yes"
 }
 , {
-    "name": "Curaçao"
-  , "name_fr": "Curaçao"
+    "name": "Curacao"
+  , "name_fr": "Curacao"
   , "ISO3166-1-Alpha-2": "CW"
   , "ISO3166-1-Alpha-3": "CUW"
   , "ISO3166-1-numeric": 531
@@ -1225,7 +1225,7 @@
   , "GAUL": 0
   , "IOC": 0
   , "currency_alphabetic_code": "ANG"
-  , "currency_country_name": "CURAÇAO"
+  , "currency_country_name": "CURACAO"
   , "currency_minor_unit": 2
   , "currency_name": "Netherlands Antillean Guilder"
   , "currency_numeric_code": 532
